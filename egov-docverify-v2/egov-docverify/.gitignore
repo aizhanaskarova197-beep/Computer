@@ -1,0 +1,27 @@
+# Maven
+target/
+
+# Құпия деректер мен кілттер (GitHub-қа салуға болмайды)
+keys/
+.env
+*.p12
+*.jks
+*.pem
+*.key
+*.enc
+
+# Бағдарлама жасайтын файлдар
+data/
+out/
+reports/
+
+# IDE
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Жүйелік
+.DS_Store
+Thumbs.db
